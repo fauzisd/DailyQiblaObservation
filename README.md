@@ -1,4 +1,4 @@
-# Sun–Shadow Qibla Alignment Visualizer
+# Sun–Shadow Qibla Alignment Time Finder
 
 This Python script calculates and visualizes the moments when the sun aligns with the Qibla direction for any location on Earth. It provides accurate solar alignment timings and plots a sun path diagram that highlights when a person's shadow will point directly toward or away from the Kaabah in Makkah.
 
