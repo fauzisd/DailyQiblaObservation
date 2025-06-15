@@ -4,6 +4,19 @@ This Python script calculates and visualizes the moments when the sun aligns wit
 
 ---
 
+## How to Use
+
+1. Read Readme.md and follow instruction to install necessary module in your Python.
+2. run the FindKiblat.py
+3. Enter your longitude and latitude of your place.  You can use Google Maps to find out your place's longitude and latitude.
+4. Press enter to use the suggested time zone.
+5. Enter the date you would like to do the experiment.
+6. The program provide the time to observe the sun's shadow.
+7. On the date and the time, hold a stick upright making a pole and observe the pole's shadow.
+8. The shadow is the way to Makkah.
+
+--
+
 ## Features
 
 * Custom location input (latitude and longitude)
