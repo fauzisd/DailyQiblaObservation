@@ -9,7 +9,7 @@ This Python script calculates and visualizes the moments when the sun aligns wit
 1. Read the README.md file and follow the instructions to install the required Python modules.
 
 
-2. Run FindKiblat.py.
+2. Run Find_Kiblat.py.
 
 
 3. When prompted, enter the longitude and latitude of your location. You can use Google Maps to find these coordinates.
